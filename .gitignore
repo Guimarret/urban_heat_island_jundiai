@@ -11,3 +11,4 @@ wheels/
 
 .claude
 uv.lock
+.python-version
