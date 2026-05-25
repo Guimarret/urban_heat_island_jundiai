@@ -63,3 +63,8 @@ Distribution of SHAP values of the spectral features segmented by land cover cla
 ![Residual Map](fig_G5_mapa_residuos.png)
 
 Spatial difference between observed and RF-predicted `LST_anomalia` for 2025. Red indicates underestimation (a warming factor not captured by the features); blue indicates overestimation. Areas with high residuals point to where the model needs additional features or where local dynamics deviate from the trained pattern.
+
+## Acknowledgments
+
+Special thanks to [@thimvaz](https://github.com/thimvaz), who did most of the work on this project.
+
